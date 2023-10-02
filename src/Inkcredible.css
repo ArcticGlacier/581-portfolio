@@ -1,0 +1,39 @@
+.projects{
+    background-color: #F2E9E4;
+    width:100vw;
+    height:100vh;
+}
+
+.navBar{
+    background-color: #22223B;
+    color: #C9ADA7 !important;  
+    display:flex;
+    flex-direction: row;
+    width:100vw;
+    justify-content: space-around;
+}
+
+.navBar a{
+    color: #C9ADA7 !important;  
+    cursor:pointer;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.navBar h1:hover{
+    cursor:pointer;
+    color:#9A8C98;
+    transition: 0.5s;
+}
+
+.projectContent{
+    overflow: scroll;
+}
+
+.overview{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:50px 150px;
+}
