@@ -27,7 +27,16 @@
 }
 
 .projectContent{
-    overflow: scroll;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    margin:150px 150px;
+  
+    background-color: #F2E9E4;
+   
+      
 }
 
 .overview{

@@ -9,7 +9,10 @@ export default function Home() {
           <h1>Home</h1>
         </Link>
         <Link to={"/Inkcredible"}>
-          <h1>Projects</h1>
+          <h1>Inkcredible</h1>
+        </Link>
+        <Link to={"/Unlocking"}>
+          <h1>Unlocking</h1>
         </Link>
       </nav>
       <div className="homeContent">
@@ -17,7 +20,16 @@ export default function Home() {
         <div className="biography">
           <h1>Gagan Brar</h1>
           <h2> CPSC 581 Student</h2>
-          <p>An aspiring fullstack developer who loves to code.</p>
+          <p>
+            Hello! I am a fifth year computer science student who has
+            aspirations to become a software developer after graduating this
+            upcoming December. Some of my hobbies are crocheting, drawing,
+            playing piano, and gaming!{" "}
+          </p>
+          <p>
+            I chose to major in computer science as I feel it has a good balance
+            of art and logic.
+          </p>
         </div>
       </div>
     </div>

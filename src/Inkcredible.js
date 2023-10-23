@@ -9,7 +9,10 @@ export default function Inkcredible() {
           <h1>Home</h1>
         </Link>
         <Link>
-          <h1>Projects</h1>
+          <h1>Inkcredible</h1>
+        </Link>
+        <Link to={"/Unlocking"}>
+          <h1>Unlocking</h1>
         </Link>
       </nav>
       <div className="projectContent">

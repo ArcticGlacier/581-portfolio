@@ -31,7 +31,13 @@
     display:flex;
     flex-direction: row;
     justify-content: space-around;
-    margin:100px;
+    margin:250px 150px;
+}
+
+.biography{
+    margin-left:100px;
+    width: 40vw;
+    font-size: 30px;
 }
 
 
