@@ -14,6 +14,9 @@ export default function Inkcredible() {
         <Link to={"/Unlocking"}>
           <h1>Unlocking</h1>
         </Link>
+        <Link to={"/CelledPhone"}>
+          <h1>CelledPhone</h1>
+        </Link>
       </nav>
       <div className="projectContent">
         <div className="overview">
