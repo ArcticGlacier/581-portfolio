@@ -17,6 +17,9 @@ export default function CelledPhone() {
         <Link>
           <h1>CelledPhone</h1>
         </Link>
+        <Link to={"/FlashFriends"}>
+          <h1>FlashFriends</h1>
+        </Link>
       </nav>
       <div className="celledPhoneContent">
         <h1>Project Overview</h1>

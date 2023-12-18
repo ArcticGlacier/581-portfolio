@@ -5,6 +5,7 @@ import Home from "./Home";
 import Inkcredible from "./Inkcredible";
 import Unlocking from "./Unlocking";
 import CelledPhone from "./CelledPhone";
+import FlashFriends from "./Flashfriends";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/Inkcredible" element={<Inkcredible />} />
         <Route path="/Unlocking" element={<Unlocking />} />
         <Route path="/CelledPhone" element={<CelledPhone />} />
+        <Route path="/FlashFriends" element={<FlashFriends />} />
       </Routes>
     </BrowserRouter>
   );

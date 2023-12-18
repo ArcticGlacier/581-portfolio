@@ -17,6 +17,9 @@ export default function Unlocking() {
         <Link to={"/CelledPhone"}>
           <h1>CelledPhone</h1>
         </Link>
+        <Link to={"/FlashFriends"}>
+          <h1>FlashFriends</h1>
+        </Link>
       </nav>
       <div className="unlockingContent">
         <h1>Project Overview</h1>
