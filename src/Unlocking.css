@@ -1,16 +1,18 @@
-.unlockingContent{
-    display:flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    margin-left:150px;
-    margin-right:150px;
-    font-size: 20px;
+.unlockingContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 150px;
+  margin-right: 150px;
+  font-size: 20px;
 }
 
-.bubblesContent, .labyrinthContent{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
+.bubblesContent,
+.labyrinthContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 70vw;
 }
