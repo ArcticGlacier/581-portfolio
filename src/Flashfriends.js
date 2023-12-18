@@ -209,6 +209,7 @@ export default function FlashFriends() {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen
           ></iframe>
+          <p>github repo: https://github.com/ArcticGlacier/FlashFriends</p>
         </div>
       </div>
     </div>
